@@ -75,11 +75,3 @@ Follow these steps to run the application locally:
 - Choose a suggestion or type your own query  
 - Get AI-powered event recommendations and help instantly  
 
----
-
-## 📸 Screenshots (Optional)
-
-You can add screenshots here for better understanding:
-
-2. Create a new database named **`event_db`**
-3. Import the provided SQL file:
